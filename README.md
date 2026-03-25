@@ -30,7 +30,7 @@ pip install -r requirements.txt
 If you use this code or find it helpful, please cite:
 
 ```
-@article{yourcitation2026babyehanet,
+@article{mugisha2026babyehanet,
   title={BabyEHANet: A Lightweight Dual‑Residual Attention Network for Edge‑Based Neonatal Behavior Monitoring },
   author={Stanley Mugisha , Kisitu Rashid , Komakech Francis, Excellence Favor},
   journal={J },
