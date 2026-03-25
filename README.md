@@ -4,7 +4,6 @@ BabyEHANet: Lightweight Dual‑Residual Attention for Neonatal Behavior Monitori
 
 This repository contains the official implementation of **BabyEHANet**, a proof‑of‑concept edge‑deployable framework for vision‑based neonatal behavior monitoring. The system integrates a Dual‑Residual Enhanced Hybrid Attention (DR‑EHA) module into a MobileNetV3‑Small backbone to achieve robust classification of sleep/awake and crying/normal states under simulated NICU conditions (occlusions, variable lighting). The model is optimized for real‑time inference on a Raspberry Pi 5 using TensorFlow Lite.
 
-**Paper:** [Add citation or link when available]
 
 ## Features
 - Novel DR‑EHA module with channel and spatial attention plus independent residual connections.
