@@ -18,24 +18,25 @@ This repository contains the official implementation of **BabyEHANet**, a proof�
 ## Setup
 
 ### Clone the repository
-''' bash
-git clone https://github.com/mugishastanley/BabyEHANet.git
+```bash
+git clone https://github.com/yourusername/BabyEHANet.git
 cd BabyEHANet
-
+```
 ### Install dependencies
-''' bash
+```bash
 pip install -r requirements.txt
-
+```
 ### Citation
 If you use this code or find it helpful, please cite:
 
-text
+```
 @article{yourcitation2026babyehanet,
   title={BabyEHANet: A Lightweight Dual‑Residual Attention Network for Edge‑Based Neonatal Behavior Monitoring },
   author={Stanley Mugisha , Kisitu Rashid , Komakech Francis, Excellence Favor},
   journal={J },
   year={2026}
 }
+```
 
 ### License
 This project is licensed under the MIT License – see the LICENSE file for details.
